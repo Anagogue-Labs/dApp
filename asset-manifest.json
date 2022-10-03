@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.a2cb4322.css",
-    "main.js": "/static/js/main.35fa1d97.js",
-    "static/js/787.3a75d5ba.chunk.js": "/static/js/787.3a75d5ba.chunk.js",
-    "static/media/skull.svg": "/static/media/skull.09125337f55df6a9ad91b4d111711f90.svg",
-    "static/media/rpc.cjs": "/static/media/rpc.93e8f6196bd2c425bf03.cjs",
-    "index.html": "/index.html",
-    "static/media/ethereum.svg": "/static/media/ethereum.cf8aa5e7c7ee6fe226057d2329059293.svg",
-    "main.a2cb4322.css.map": "/static/css/main.a2cb4322.css.map",
-    "main.35fa1d97.js.map": "/static/js/main.35fa1d97.js.map",
-    "787.3a75d5ba.chunk.js.map": "/static/js/787.3a75d5ba.chunk.js.map"
+    "main.css": "/dApp/static/css/main.a2cb4322.css",
+    "main.js": "/dApp/static/js/main.49e7e334.js",
+    "static/js/787.3a75d5ba.chunk.js": "/dApp/static/js/787.3a75d5ba.chunk.js",
+    "static/media/skull.svg": "/dApp/static/media/skull.09125337f55df6a9ad91b4d111711f90.svg",
+    "static/media/rpc.cjs": "/dApp/static/media/rpc.93e8f6196bd2c425bf03.cjs",
+    "index.html": "/dApp/index.html",
+    "static/media/ethereum.svg": "/dApp/static/media/ethereum.cf8aa5e7c7ee6fe226057d2329059293.svg",
+    "main.a2cb4322.css.map": "/dApp/static/css/main.a2cb4322.css.map",
+    "main.49e7e334.js.map": "/dApp/static/js/main.49e7e334.js.map",
+    "787.3a75d5ba.chunk.js.map": "/dApp/static/js/787.3a75d5ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a2cb4322.css",
-    "static/js/main.35fa1d97.js"
+    "static/js/main.49e7e334.js"
   ]
 }
